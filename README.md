@@ -1,4 +1,48 @@
-<div id="header" align="center">
+## Who Am I
+ :wave: 
+Hello there, my name is Miklos Kiss and I'm from Hungary. Originally I'm an Electrical Engineer who is doing his Masters' Degree at the moment. And beside of that, I'm working as a Software Developer at Accenture Hungary.
+
+## What do I Do
+  :computer: **At work:** Doing some **coding** and solving problems. :wrench: 
+
+  :school_satchel: **At school:** Learning about **Electrical Engineering Principles** and **Embedded Softwares**. :books:
+
+  :books: **Books:** Reading a lot of books about **sci-fi** like Star Wars and **fantasy** like Game of Thrones and **Tolkien**. Damn, I must be a nerd :frowning: Although I'm reading not just books like this, I love books about aerospace, space, and physics. :rocket: :milky_way: :telescope:
+
+## Programming languages
+<div align = "center">
+  <img src ="https://icongr.am/devicon/c-original.svg?size=64&color=currentColor" alt="c"/>
+  <img src="https://icongr.am/devicon/csharp-original.svg?size=64&color=currentColor" alt="C#"/>
+  <img src="https://icongr.am/devicon/html5-original.svg?size=64&color=currentColor" alt="HTML5">
+  <img src="https://icongr.am/devicon/css3-original.svg?size=64&color=currentColor" alt="CSS">
+  <img src="https://icongr.am/devicon/javascript-original.svg?size=64&color=currentColor" alt="JS">
+  <img src="https://icongr.am/devicon/python-original.svg?size=64&color=currentColor" alt="Python">
+    <img src="https://icongr.am/devicon/mongodb-original.svg?size=64&color=currentColor" alt="MongoDB">
+    <img src="https://icongr.am/devicon/django-original.svg?size=64&color=currentColor" alt="Django">
+</div>
+
+## What I'm Learning
+
+:books: **Currently:** I'm learning **C#** and **.NET**. Beside of this I'm trying to learn some **pyhton** too, because of the universal use of that language. And in science it is the best to use.:books:
+
+:books: **In the future:** I'm planning to learn **Javascript** , **Svelte** and **Node.JS**. So basically become a Full Stack Developer. :books:
+
+## What do I Want to Do
+
+- **Open-Source Projects**: I want to participate some open-source projects. I'm not sure what kind of projects, but I'm sure that I want to do it. If it is related to science stuff, that would be the best. :mag:
+
+- **Contribute:** I want to contribute to the open-source - community. I want to help people with their problems and I want to help them to solve their problems. :mag:
+
+- **Learn more about Space**: I want to learn more about space and space exploration. I want to know more about the universe and the planets. :milky_way:
+
+- **Learn more about Physics**: I want to learn more about physics and the laws of physics. I want to know more about the universe and the planets. :milky_way:
+
+## Open Source Projects
+
+:red_circle: **No projects yet.** :red_circle:
+## Contact me
+:email: If you want to just chat about something or have a great project which needs some members just feel free to contact me, see below my accounts :arrow_down:
+<div id="gif" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
@@ -13,15 +57,6 @@
   </a>
 </div>
 <img src="https://komarev.com/ghpvc/?mijki&style=flat-square&color=blue" alt=""/>
-
-I am a Full Stack Developer from Hungary.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/mijki-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/miklos-kiss/))
 
 <!--
 **mijki/mijki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
