@@ -55,8 +55,13 @@ Hello there, my name is Miklos Kiss and I'm from Hungary. Originally I'm an Elec
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-</div>
+  
+  <a href="https://www.buymeacoffee.com/mijki95">
+<img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt = "BuyMeACoffee" width=150>
+</div></a>
 <img src="https://komarev.com/ghpvc/?mijki&style=flat-square&color=blue" alt=""/>
+
+![Mijki's GitHub stats](https://github-readme-stats.vercel.app/api?username=mijki&show_icons=true&theme=radical)
 
 <!--
 **mijki/mijki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
