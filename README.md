@@ -1,6 +1,6 @@
 ## Who Am I
  :wave: 
-Hello there, my name is Miklos Kiss and I'm from Hungary. Originally I'm an Electrical Engineer who is doing his Masters' Degree at the moment. And beside of that, I'm working as a Software Developer at Accenture Hungary.
+Hello there, my name is Miklos Kiss and I'm from Hungary. Originally I'm an Electrical Engineer who is doing his Masters' Degree at the moment. And besides that, I'm working as a Software Developer at Accenture Hungary.
 
 ## What do I Do
   :computer: **At work:** Doing some **coding** and solving problems. :wrench: 
@@ -23,13 +23,13 @@ Hello there, my name is Miklos Kiss and I'm from Hungary. Originally I'm an Elec
 
 ## What I'm Learning
 
-:books: **Currently:** I'm learning **C#** and **.NET**. Beside of this I'm trying to learn some **pyhton** too, because of the universal use of that language. And in science it is the best to use.:books:
+:books: **Currently:** I'm learning **C#** and **.NET**. Besides this, I'm trying to learn some **python** too, because of the universal use of that language. And in science it is best to use.:books:
 
 :books: **In the future:** I'm planning to learn **Javascript** , **Svelte** and **Node.JS**. So basically become a Full Stack Developer. :books:
 
 ## What do I Want to Do
 
-- **Open-Source Projects**: I want to participate some open-source projects. I'm not sure what kind of projects, but I'm sure that I want to do it. If it is related to science stuff, that would be the best. :mag:
+- **Open-Source Projects**: I want to participate in some open-source projects. I'm not sure what kind of projects, but I'm sure that I want to do it. If it is related to science stuff, that would be the best. :mag:
 
 - **Contribute:** I want to contribute to the open-source - community. I want to help people with their problems and I want to help them to solve their problems. :mag:
 
