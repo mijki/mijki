@@ -2,11 +2,11 @@
 
  :wave:
 Hello there, my name is Miklos Kiss and I'm from Hungary.
-I'm learning Electrical Enginnering at the [University of Obuda](https://uni-obuda.hu/main-page/), Budapest. While I'm doing my Masters' degree, I'm also working as a Software Engineer at [Accenture Hungary](https://www.accenture.com/hu-en/about/company/hungary?gclid=CjwKCAjwpqCZBhAbEiwAa7pXebp8RlcSCwvyJqjOAiN5i0n0JTtnvJ7ceO4tX9FjED3ks3q57X0qtBoCqb8QAvD_BwE). I was also the Founder of [OE Spacenetiq](https://www.spacenetiq.eu/).
+I'm learning Electrical Engineering at the [University of Obuda](https://uni-obuda.hu/main-page/), Budapest. While I'm doing my Masters' degree, I'm also working as a Software Engineer at [Accenture Hungary](https://www.accenture.com/hu-en/about/company/hungary?gclid=CjwKCAjwpqCZBhAbEiwAa7pXebp8RlcSCwvyJqjOAiN5i0n0JTtnvJ7ceO4tX9FjED3ks3q57X0qtBoCqb8QAvD_BwE). I was also the Founder of [OE Spacenetiq](https://www.spacenetiq.eu/).
 
 ## What am I doing
 
-  :computer: **At work:** Some **coding** in .NET and C# and solving problems. :wrench:
+  :computer: **At work:** I work with **.NET** and **C#** while solving problems or adding new features. :wrench:
 
   :school_satchel: **At University:** Learning about **Electrical Engineering Principles** and **Embedded Softwares**. :books:
 
