@@ -1,4 +1,4 @@
-## Who I am
+## About me
 
  :wave:
 Hello there, my name is Miklos Kiss and I'm from Hungary.
@@ -12,17 +12,19 @@ I'm learning Electrical Engineering at the [University of Obuda](https://uni-obu
 
   :books: **Books:** My favourites are **sci-fi** like Star Wars and **fantasies** like Game of Thrones and **Tolkien**. Damn, I must be a nerd :frowning: But I read not just fictions, I have dozens of books about aerospace, engineering, electrics and electronics design, space, and physics. :rocket: :milky_way: :telescope:
 
-## Programming languages
+## Programming languages & Frameworks
 
 <div align = "center">
   <img src ="https://icongr.am/devicon/c-original.svg?size=64&color=currentColor" alt="c"/>
   <img src="https://icongr.am/devicon/csharp-original.svg?size=64&color=currentColor" alt="C#"/>
+  <img src="https://icongr.am/devicon/dot-net-plain-wordmark.svg?size=64&color=c7c7c7" alt=".NET">
   <img src="https://icongr.am/devicon/html5-original.svg?size=64&color=currentColor" alt="HTML5">
   <img src="https://icongr.am/devicon/css3-original.svg?size=64&color=currentColor" alt="CSS">
   <img src="https://icongr.am/devicon/javascript-original.svg?size=64&color=currentColor" alt="JS">
   <img src="https://icongr.am/devicon/python-original.svg?size=64&color=currentColor" alt="Python">
-  <img src="https://icongr.am/devicon/mongodb-original.svg?size=64&color=currentColor" alt="MongoDB">
   <img src="https://icongr.am/devicon/django-original.svg?size=64&color=currentColor" alt="Django">
+  <img src="https://icongr.am/devicon/mongodb-original.svg?size=64&color=currentColor" alt="MongoDB">
+
 </div>
 
 ## What I'm Learning
@@ -51,17 +53,17 @@ I'm learning Electrical Engineering at the [University of Obuda](https://uni-obu
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/miklos-kiss/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=appveyor&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=appveyor&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height=28/>
   </a>
   <a href="https://www.facebook.com/mijki">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook badge"/>
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook badge" height=28/>
   </a>
   <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge" height=28/>
   </a>
   
   <a href="https://www.buymeacoffee.com/mijki95">
-<img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt = "BuyMeACoffee" width=128>
+<img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt = "BuyMeACoffee" height=28>
 </div></a>
 <img src="https://komarev.com/ghpvc/?mijki&style=flat-square&color=blue" alt=""/>
 
