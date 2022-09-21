@@ -2,7 +2,7 @@
 
  :wave:
 Hello there, my name is Miklos Kiss and I'm from Hungary.
-I'm learning Electrical Engineering at the [University of Obuda](https://uni-obuda.hu/main-page/), Budapest. While I'm doing my Masters' degree, I'm also working as a Software Engineer at [Accenture Hungary](https://www.accenture.com/hu-en/about/company/hungary?gclid=CjwKCAjwpqCZBhAbEiwAa7pXebp8RlcSCwvyJqjOAiN5i0n0JTtnvJ7ceO4tX9FjED3ks3q57X0qtBoCqb8QAvD_BwE). I was also the Founder of [OE Spacenetiq](https://www.spacenetiq.eu/).
+I'm learning Electrical Engineering at the [University of Obuda](https://uni-obuda.hu/main-page/), Budapest. While I'm doing my master's degree, I'm also working as a Software Engineer at [Accenture Hungary](https://www.accenture.com/hu-en/about/company/hungary?gclid=CjwKCAjwpqCZBhAbEiwAa7pXebp8RlcSCwvyJqjOAiN5i0n0JTtnvJ7ceO4tX9FjED3ks3q57X0qtBoCqb8QAvD_BwE). I was also the Founder of [OE Spacenetiq](https://www.spacenetiq.eu/).
 
 ## What am I doing
 
@@ -10,7 +10,7 @@ I'm learning Electrical Engineering at the [University of Obuda](https://uni-obu
 
   :school_satchel: **At University:** Learning about **Electrical Engineering Principles** and **Embedded Softwares**. :books:
 
-  :books: **Books:** My favourites are **sci-fi** like Star Wars and **fantasies** like Game of Thrones and **Tolkien**. Damn, I must be a nerd :frowning: But I read not just fictions, I have dozens of books about aerospace, engineering, electrics and electronics design, space, and physics. :rocket: :milky_way: :telescope:
+  :books: **Books:** My favorites are **sci-fi** like Star Wars and **fantasies** like Game of Thrones and **Tolkien**. Damn, I must be a nerd :frowning: But I read not just fiction, I have dozens of books about aerospace, engineering, electrics, electronics design, space, and physics. :rocket: :milky_way: :telescope:
 
 ## Programming languages & Frameworks
 
@@ -29,7 +29,7 @@ I'm learning Electrical Engineering at the [University of Obuda](https://uni-obu
 
 ## What I'm Learning
 
-:books: **Currently:** I'm learning **C#** and **.NET**. Besides this, I'm trying to learn some **python** too, because that is a universal tool for Data Engineering and Data Science and modelling different systems and physics problem. :books:
+:books: **Currently:** I'm learning **C#** and **.NET**. Besides this, I'm trying to learn some **python** too, because that is a universal tool for Data Engineering and Data Science and modeling different systems and physics problems. :books:
 
 :books: **In the future:** I'm planning to learn **Javascript** , **Svelte** and **Node.JS**. So basically I can become a Full Stack Developer after. :books:
 
