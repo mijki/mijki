@@ -4,7 +4,7 @@
 Hello there, my name is Miklos Kiss and I'm from Hungary.
 I'm learning Electrical Engineering at the [University of Obuda](https://uni-obuda.hu/main-page/), Budapest. While I'm doing my master's degree, I'm also working as a Software Engineer at [Accenture Hungary](https://www.accenture.com/hu-en/about/company/hungary?gclid=CjwKCAjwpqCZBhAbEiwAa7pXebp8RlcSCwvyJqjOAiN5i0n0JTtnvJ7ceO4tX9FjED3ks3q57X0qtBoCqb8QAvD_BwE). I was also the Founder of [OE Spacenetiq](https://www.spacenetiq.eu/).
 
-Find me on [HacherRank](https://www.hackerrank.com/mijki95) or [LeetCode](https://leetcode.com/mijki95/).
+Find me on [HackerRank](https://www.hackerrank.com/mijki95) or [LeetCode](https://leetcode.com/mijki95/).
 
 ## What am I doing
 
